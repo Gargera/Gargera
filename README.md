@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Esraa%20Taha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20.NET%20trainee%202%20@%20ITI 6 months&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Esraa%20Taha&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Fullstack+.NET+trainee+2+%40ITI;Coach+%40Coach+Academy;Competitive+Programmer+%26+Problem+Solver;%F0%9F%8F%86+ACPC+Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Fullstack+.NET+trainee+%40ITI;Coach+%40Coach+Academy;Competitive+Programmer+%26+Problem+Solver;%F0%9F%8F%86+ACPC+Finalist" alt="Typing SVG" />
   </a>
 </div>
 
