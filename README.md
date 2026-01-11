@@ -32,7 +32,6 @@ My journey is driven by a love for problem-solving and building efficient softwa
 
 - Ex Embedded Software Engineer
 - 🌱 I’m currently transitioning into Backend Development using .NET.
-- 💬 Ask me about **Algorithms, Data Structures**.
 
 ---
 
