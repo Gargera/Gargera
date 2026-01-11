@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Esraa%20Taha&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Esraa%20Taha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20.NET%20trainee%20@%20ITI 6 months" width="100%"/>
 </div>
 
 <div align="center">
