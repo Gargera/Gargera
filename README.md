@@ -35,7 +35,7 @@ Status       : Open to Opportunities
 | Area | Details |
 |------|---------|
 | 🏗️ Architecture | N-Tier Architecture · OOP · Clean & Structured Code |
-| 🗄️ Backend | C# · ASP.NET · SQL · T-SQL · Entity Framework |
+| 🗄️ Backend | C# · ASP.NET MVC · Web API · SQL · T-SQL · Entity Framework · LINQ |
 | 🎨 Frontend | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · Bootstrap · Tailwind CSS |
 | 🧩 Fundamentals | SOLID Principles · Data Structures · Algorithms · Problem Solving |
 
@@ -49,6 +49,9 @@ Status       : Open to Opportunities
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-7B2FBE?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -61,10 +64,12 @@ Status       : Open to Opportunities
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 💻 Languages (Competitive Programming)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,9 +97,8 @@ Status       : Open to Opportunities
 
 - 🏅 **ACPC Girls 2023** — **9th place (Bronze Medal)** out of 210 contestants
 - 🌍 **ACPC Kickoff 2023** — **105th place** out of 810 contestants
-- 🇪🇬 **ECPC 2022** — **49th place** out of 250 teams → Qualified to ACPC 2023
+- 🇪🇬 **ECPC 2022** — **49th place** out of 250 teams → 🎯 **Qualified to ACPC 2023**
 - ✅ Solved **+3500 problems** on Codeforces and other platforms
-- 🎓 ICPC participant
 
 ---
 
