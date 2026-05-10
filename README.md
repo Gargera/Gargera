@@ -87,7 +87,7 @@ Status       : Open to Opportunities
 
 <div align="center">
 
-[![ICPCID](https://img.shields.io/badge/ICPCID-000000?style=for-the-badge&logo=ICPCID&logoColor=blue)]([https://atcoder.jp/users/Gargera](https://icpc.global/ICPCID/GE0IN3VM19PI))
+[![ICPCID](https://img.shields.io/badge/ICPCID-000000?style=for-the-badge&logo=ICPCID&logoColor=blue)](https://icpc.global/ICPCID/GE0IN3VM19PI))
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/EsraaTaha)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gargera/)
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Gargera)
