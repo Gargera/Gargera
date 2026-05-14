@@ -1,9 +1,9 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:5B2D8E&height=230&section=header&text=Esraa%20Taha&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20.NET%20Trainee%20%40%20ITI%20%7C%20ACPC%20Finalist%20%7C%20Egypt&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:5B2D8E&height=230&section=header&text=Esraa%20Taha&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20.NET%20Trainee%20%40%20ITI%20%7C%20Ex%20Embedded%20Software%20Engineer%20%7C%20ACPC%20Finalist%20%7C%20Egypt&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=336699&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Trainee+%40+ITI;C%23+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Competitive+Programmer+%7C+ACPC+Finalist;Problem+Solving+Coach+%40+Coach+Academy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=336699&center=true&vCenter=true&width=850&lines=Full-Stack+.NET+Trainee+%40+ITI;Ex+Embedded+Software+Engineer;C%23+%7C+ASP.NET+Core+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Competitive+Programmer+%7C+ACPC+Finalist;Problem+Solving+Coach+%40+Coach+Academy" />
 
 <br/>
 
@@ -19,14 +19,14 @@
 
 ```yaml
 Name         : Esraa Taha Abdelmohimen
-Role         : Full-Stack .NET Trainee @ ITI
+Role         : Full-Stack .NET Trainee @ ITI | Ex Embedded Software Engineer
 Location     : Cairo, Egypt 🇪🇬
-Focus        : C# | ASP.NET | SQL Server | Frontend
-Background   : Competitive Programming | Problem Solving
+Focus        : C# | ASP.NET Core | SQL Server | Frontend
+Background   : Embedded Systems | Competitive Programming | Problem Solving
 Status       : Open to Opportunities
 ```
 
-> 💡 I'm a passionate developer with a strong algorithmic background from competitive programming, currently building real-world full-stack web applications through intensive training at ITI.
+> 💡 I'm a passionate developer with a background in embedded software engineering and a strong algorithmic foundation from competitive programming, currently building real-world full-stack web applications through intensive training at ITI.
 
 ---
 
@@ -35,9 +35,10 @@ Status       : Open to Opportunities
 | Area | Details |
 |------|---------|
 | 🏗️ Architecture | N-Tier Architecture · OOP · Clean & Structured Code |
-| 🗄️ Backend | C# · ASP.NET MVC · Web API · SQL · T-SQL · Entity Framework · LINQ |
+| ⚙️ Backend | C# · ASP.NET Core · ASP.NET MVC · Web API · SQL · T-SQL · Entity Framework · LINQ |
 | 🎨 Frontend | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · Bootstrap · Tailwind CSS |
-| 🧩 Fundamentals | SOLID Principles · Data Structures · Algorithms · Problem Solving |
+| 🧩 Fundamentals | SOLID Principles · Repository · Unit of Work · Data Structures · Algorithms · Problem Solving |
+| 🚀 Workflow | Git · GitHub · Pull Requests · GitHub Actions · CI/CD Basics |
 
 ---
 
@@ -48,6 +49,7 @@ Status       : Open to Opportunities
 ### ⚙️ Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-7B2FBE?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -66,6 +68,12 @@ Status       : Open to Opportunities
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+### 🧠 Fundamentals & Architecture
+![OOP](https://img.shields.io/badge/OOP-336699?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-5B2D8E?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-336699?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-5B2D8E?style=for-the-badge)
+
 ### 💻 Languages (Competitive Programming)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -76,6 +84,16 @@ Status       : Open to Opportunities
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gargera&layout=compact&hide_border=true&title_color=336699&text_color=555&bg_color=fafafa&langs_count=8" />
 
 </div>
 
@@ -146,6 +164,8 @@ Al-Azhar University — *Sep 2019 – Jul 2024*
 <br/>
 
 > *"The only way to get better at something is to do it over and over — one problem at a time."*
+
+> *"Think twice, code once."*
 
 </div>
 
