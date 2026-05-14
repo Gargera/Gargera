@@ -34,10 +34,12 @@ Status       : Open to Opportunities
 
 | Area | Details |
 |------|---------|
-| 🏗️ Architecture | N-Tier Architecture · OOP · Clean & Structured Code |
+| 🏗️ Architecture | N-Tier Architecture · OOP · SOLID Principles · Repository · Unit of Work · Clean & Structured Code |
 | ⚙️ Backend | C# · ASP.NET Core · ASP.NET MVC · Web API · SQL · T-SQL · Entity Framework · LINQ |
+| 🗄️ Database | SQL Server · EF Core · LINQ · Migrations · Relationships |
+| 🔐 Security | Authentication · Role-Based Authorization |
 | 🎨 Frontend | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · Bootstrap · Tailwind CSS |
-| 🧩 Fundamentals | SOLID Principles · Repository · Unit of Work · Data Structures · Algorithms · Problem Solving |
+| 🧩 Fundamentals | Data Structures · Algorithms · Problem Solving |
 | 🚀 Workflow | Git · GitHub · Pull Requests · GitHub Actions · CI/CD Basics |
 
 ---
