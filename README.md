@@ -40,7 +40,7 @@ Status       : Open to Opportunities
 | 🔐 Security | Authentication · Role-Based Authorization |
 | 🎨 Frontend | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · Bootstrap · Tailwind CSS |
 | 🧩 Fundamentals | Data Structures · Algorithms · Problem Solving |
-| 🚀 Workflow | Git · GitHub · Pull Requests · GitHub Actions · CI/CD Basics |
+| 🚀 Workflow | Git · GitHub · Pull Requests |
 
 ---
 
