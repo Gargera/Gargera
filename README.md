@@ -160,7 +160,7 @@ Al-Azhar University — *Sep 2019 – Jul 2024*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-taha-b47b2924a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gargera)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esraataha3092001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esraa309taha@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/EsraaTaha)
 
 <br/>
